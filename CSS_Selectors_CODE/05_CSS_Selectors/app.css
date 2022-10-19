@@ -1,0 +1,87 @@
+
+
+* { color: cyan;}
+
+button 
+{font-size: 30px;
+    background-color: #8ecae6;
+
+}
+
+
+h1,h2 { 
+    color: #219ebc;
+    
+}
+
+
+#yellow {
+    background-color:#fb8500 ;
+
+}
+
+body {
+    background-color:  #023047;
+}
+
+span   {
+    color: #fb8500;
+}
+
+.tag {
+    background-color: #fb8500;
+    color: #123138;
+    font-size: 16px;
+}
+
+.post a
+{
+color: #ffb703;
+font-weight: 700;
+text-decoration: none;
+
+}
+
+input + button
+{
+    background-color: pink;
+}
+
+h2 + button
+{
+    font-size: 20px;
+    background-color: maroon;
+}
+
+div > li
+{
+    color: wheat;
+}
+
+footer > a {
+    color: wheat;
+}
+
+input
+[
+type="password"
+]{color: #123138;}
+
+a[href*=google]{color: magenta;}
+
+.post button:hover {color: #ffb703;}
+
+.post a:hover {text-decoration: underline;}
+
+.post button:active {background-color: #ffb703;}
+
+.post :nth-last-of-type(2n) {background-color: #f16100;}
+
+div {
+    width: 200px;
+    height: 100 px;.
+    background-color:#f16100;
+}
+
+ffb703 light orange
+fb8500 dark orange

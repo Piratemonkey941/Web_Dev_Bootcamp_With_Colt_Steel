@@ -1,0 +1,23 @@
+
+
+
+div {
+    text-align: center;
+    width: 210px  ;
+    border-width: 1px;
+    border-color: grey;
+    border-style: solid;
+    border-radius: 5px;
+    }
+
+
+
+img {
+    width: 200px;
+    border-width: 5px;
+    
+    border-color: rgb(236, 183, 191);
+    border-radius: 50%;
+    border-style: solid;
+    
+}

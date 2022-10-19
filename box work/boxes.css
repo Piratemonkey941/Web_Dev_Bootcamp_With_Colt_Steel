@@ -1,0 +1,56 @@
+div {
+    text-align: center;
+    width: 200px  ;
+    height: 200 px ;
+    background-color: #ffafcc ;
+
+}
+
+
+h1 { 
+background-color: #ffafcc;
+width: 100px;
+}
+
+#one {
+    background-color: salmon;
+    border-width: 5px;
+    border-color: #3b3636;
+    border-style: solid;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 300px;
+    
+}
+
+#two {
+    background-color: rgb(255, 73, 52);
+    border-width: 5px;
+    border-color: #d8aeb6;
+    border-style: dashed;
+    margin-left: 400px;
+}
+
+#three {
+    background-color: rgb(247, 25, 0);
+    border-width: 5px;
+    border-color: #ffb4a2;
+    border-style: solid;
+    border-radius: 5%;
+    margin-left: 200px;
+    
+}
+#four {
+    border: 4px solid #a2d2ff;
+    margin-left: 100px ;
+}
+
+button {
+    padding: 5px 15px;
+    margin-top: 30px;
+    
+}
+
+
+
